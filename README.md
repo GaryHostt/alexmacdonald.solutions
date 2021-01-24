@@ -23,4 +23,4 @@ What would you say...you do here?
 
 [Wuphf!](https://www.youtube.com/watch?v=GT6uWYqJq6E)
 
-[Santa Monica Integration on Youtube](https://www.youtube.com/watch?v=3I4fTHUwHn4&list=PLac0aK0xPocaB_HGn-MP6gILrrAybcpbG)
+[Santa Monica Integration on Youtube](https://www.youtube.com/channel/UCW04sPyVsthkrjPs_Gx-dFA)

@@ -13,7 +13,7 @@ What would you say...you do here?
 
 [Pilot Light - Disaster Recovery](https://apexapps.oracle.com/pls/apex/dbpm/r/livelabs/view-workshop?wid=724)
 
-[Integrating with Fusion Applications[https://medium.com/@alexmacdon94/laying-the-foundation-of-success-with-oracle-integration-erp-to-disparate-systems-dabad63abf7e]
+[Integrating with Fusion Applications[https://medium.com/@alexmacdon94/laying-the-foundation-of-success-with-oracle-integration-erp-to-disparate-systems-dabad63abf7e](https://medium.com/@alexmacdon94/laying-the-foundation-of-success-with-oracle-integration-erp-to-disparate-systems-dabad63abf7e)
 
 [Connecting to Autonomous Transaction Processing](https://www.youtube.com/watch?v=-9nP2LaeOok)
 

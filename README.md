@@ -41,7 +41,7 @@ I was the FY20 Solution Engineer of the year in the North America Cloud division
 
   - [Oracle Data Integrator](https://garyhostt.github.io/Oracle_Data_Integrator/)
  
- #### Autonomous Database
+#### Autonomous Database
   
   - [HubsterDatabase](https://github.com/GaryHostt/HubsterDatabase) built with Flask
   

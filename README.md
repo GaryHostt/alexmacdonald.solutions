@@ -4,7 +4,7 @@
 
 
 <p align="center">
-  <img src="https://media-exp1.licdn.com/dms/image/C5616AQGj3PqrgDMexw/profile-displaybackgroundimage-shrink_350_1400/0/1608401918895?e=1617235200&v=beta&t=DpS7jFPY_JYQCE5J3ovxD9W1bl3qeHtmG4gqOc68Clg" alt="Mule"/>
+  <img src="https://media-exp1.licdn.com/dms/image/C5616AQGj3PqrgDMexw/profile-displaybackgroundimage-shrink_350_1400/0/1608401918895?e=1617235200&v=beta&t=DpS7jFPY_JYQCE5J3ovxD9W1bl3qeHtmG4gqOc68Clg" alt="thanos"/>
 </p>
 
 ## Where to find me
@@ -82,5 +82,9 @@ ________________________________________________________________________________
 ________________________________________________________________________________________________________________
 
 ## University days
+
+<p align="left">
+  <img src="https://cdn.freebiesupply.com/logos/large/2x/marshall-university-logo-png-transparent.png" alt="Marshall"/>
+</p>
 
 I worked extensively with Microsoft Access at [DuPont](https://en.wikipedia.org/wiki/Dark_Waters_%282019_film%29) (then the Chemours Company) and [Sogefi](https://www.sogefigroup.com/en/index.html). I am also a co-author of [this paper](https://www.sciencedirect.com/science/article/abs/pii/S0166516216301033) in the International Journal of Coal Geology.

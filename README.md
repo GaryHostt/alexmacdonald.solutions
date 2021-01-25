@@ -43,7 +43,7 @@ I was the FY20 Solution Engineer of the year in the North America Cloud division
  
 #### Autonomous Database
   
-  - [HubsterDatabase](https://github.com/GaryHostt/HubsterDatabase) built with Flask
+  - [HubsterDatabase](https://github.com/GaryHostt/HubsterDatabase), built with Flask
   
   - **The Manufacturing Maintenance Office**, an APEX application inspired by my time at DuPont
       

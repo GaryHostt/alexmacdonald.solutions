@@ -20,11 +20,11 @@ ________________________________________________________________________________
 
   - [Wuphf!](https://www.youtube.com/watch?v=GT6uWYqJq6E), omnichannel communication solution
   
-  - [PaaS4SaaS](https://www.youtube.com/watch?v=zZk6SI7FADY), salesplay
+  - [PaaS4SaaS](https://www.youtube.com/watch?v=zZk6SI7FADY), corporate salesplay
   
-  - [Connecting to Autonomous Transaction Processing](https://www.youtube.com/watch?v=-9nP2LaeOok)
+  - [Connecting to Autonomous Transaction Processing](https://www.youtube.com/watch?v=-9nP2LaeOok), a cloud hub solution
   
-  - [Santa Monica Integration](https://www.youtube.com/channel/UCW04sPyVsthkrjPs_Gx-dFA) Youtube Channel
+  - [Santa Monica Integration](https://www.youtube.com/channel/UCW04sPyVsthkrjPs_Gx-dFA), Youtube Channel
   
   - [Integrating with Fusion Applications](https://medium.com/@alexmacdon94/laying-the-foundation-of-success-with-oracle-integration-erp-to-disparate-systems-dabad63abf7e)
   

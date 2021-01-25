@@ -45,7 +45,7 @@ I was the FY20 Solution Engineer of the year in the North America Cloud division
       
       - <details> <summary>Read-only credentials</summary> username: guest / password: TheDog8MyHomework77! </details>
       
-      - The data is sent to MMO via ORDS with this [Python script](https://github.com/GaryHostt/sampeIoTData)
+      - The data is sent to MMO via ORDS with this [Python script](https://garyhostt.github.io/sampeIoTData/)
   
 ### Oracle Cloud Infrastructure (OCI)
 

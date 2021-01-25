@@ -28,7 +28,7 @@ ________________________________________________________________________________
   
   - [Integrating with Fusion Applications](https://medium.com/@alexmacdon94/laying-the-foundation-of-success-with-oracle-integration-erp-to-disparate-systems-dabad63abf7e)
   
-Oracle Cloud Infrastructure
+Oracle Cloud Infrastructure (OCI)
 
   - [Cloud Native](https://garyhostt.github.io/OCI_DevOps/)
 

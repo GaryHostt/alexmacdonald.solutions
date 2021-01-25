@@ -40,6 +40,14 @@ Oracle Cloud Infrastructure (OCI)
   
   - [ORDS Python script](https://github.com/GaryHostt/sampeIoTData)
   
+  - The Manufacturing Maintenance Office, an APEX application inspired by my time at DuPont
+      
+      - go to [apex.alexmacdonald.solutions](http://apex.alexmacdonald.solutions)
+      
+      - username: guest / password: TheDog8MyHomework77!
+      
+      - you only have read access, but if you go to the dashboard page you can look busy by leaving it on your second monitor
+  
 ________________________________________________________________________________________________________________
 
 <p align="left">

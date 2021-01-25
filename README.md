@@ -29,7 +29,7 @@ I was the FY20 Solution Engineer of the year in the North America Cloud division
 
   - [Connecting to Autonomous Transaction Processing](https://www.youtube.com/watch?v=-9nP2LaeOok), a cloud hub solution
   
-  - [Wuphf!](https://www.youtube.com/watch?v=GT6uWYqJq6E), omnichannel communication solution
+  - [Wuphf!](https://www.youtube.com/watch?v=GT6uWYqJq6E), omnichannel communication
   
   - [PaaS4SaaS](https://www.youtube.com/watch?v=zZk6SI7FADY), corporate salesplay
   

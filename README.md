@@ -37,8 +37,6 @@ I was the FY20 Solution Engineer of the year in the North America Cloud division
   
 ### Autonomous Database
   
-  - [Hubster Database](https://github.com/GaryHostt/HubsterDatabase), built with Flask
-  
   - **The Manufacturing Maintenance Office**, an APEX application inspired by my time at DuPont
       
       - go to [apex.alexmacdonald.solutions](http://apex.alexmacdonald.solutions), login and go to dashboard on the left menu, now you can look like you're busy doing science by leaving it on your second monitor
@@ -46,6 +44,8 @@ I was the FY20 Solution Engineer of the year in the North America Cloud division
       - <details> <summary>Read-only credentials</summary> username: guest / password: TheDog8MyHomework77! </details>
       
       - The data is sent to MMO via ORDS with this [Python script](https://garyhostt.github.io/sampeIoTData/)
+      
+  - [Hubster Database](https://github.com/GaryHostt/HubsterDatabase), built with Flask
   
 ### Oracle Cloud Infrastructure (OCI)
 

@@ -58,7 +58,7 @@ Oracle Cloud Infrastructure (OCI)
 ________________________________________________________________________________________________________________
 
 <p align="left">
-  <img src="https://clipartart.com/images/gcp-logo-clipart-6.png" witdh = 200 height = 200 alt="gcp"/>
+  <img src="https://i0.wp.com/www.pointstar.com.my/wp-content/uploads/2015/11/Header_Logo_GCP_transparent.png?ssl=1" witdh = 200 height = 70 alt="gcp"/>
 </p>
 
 - [BigQuery Integration](https://garyhostt.github.io/BigQueryIntegration/)

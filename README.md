@@ -27,3 +27,7 @@
 [Oracle Data Integrator](https://garyhostt.github.io/Oracle_Data_Integrator/)
 
 [Santa Monica Integration on Youtube](https://www.youtube.com/channel/UCW04sPyVsthkrjPs_Gx-dFA)
+
+## Pre-Oracle
+
+I worked extensively with Microsoft Access at [DuPont](https://en.wikipedia.org/wiki/Dark_Waters_%282019_film%29) (then the Chemours Company) and [Sogefi](https://www.sogefigroup.com/en/index.html). I am also a co-author of [this paper](https://www.sciencedirect.com/science/article/abs/pii/S0166516216301033) in the International Journal of Coal Geology.

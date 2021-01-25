@@ -71,7 +71,7 @@ ________________________________________________________________________________
   <img src="http://getwallpapers.com/wallpaper/full/9/4/d/358396.jpg" witdh = 60 height = 183 alt="code"/>
 </p>
 
-[NewsAPI](http://newsapi.org)
+News API
 
 - golang [cron job](https://github.com/GaryHostt/GoChronCall)
 

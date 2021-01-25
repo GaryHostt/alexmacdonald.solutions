@@ -33,14 +33,6 @@ I was the FY20 Solution Engineer of the year in the North America Cloud division
   
   - [PaaS4SaaS](https://www.youtube.com/watch?v=zZk6SI7FADY), corporate salesplay
   
-### Oracle Cloud Infrastructure (OCI)
-
-  - [Cloud Native Development](https://garyhostt.github.io/OCI_DevOps/)
-
-  - [Pilot Light - Disaster Recovery](https://apexapps.oracle.com/pls/apex/dbpm/r/livelabs/view-workshop?wid=724)
-
-  - [Oracle Data Integrator](https://garyhostt.github.io/Oracle_Data_Integrator/)
- 
 ### Autonomous Database
   
   - [HubsterDatabase](https://github.com/GaryHostt/HubsterDatabase), built with Flask
@@ -54,6 +46,14 @@ I was the FY20 Solution Engineer of the year in the North America Cloud division
       - Go to the dashboard page you can look busy by leaving it on your second monitor
       
       - The data is sent to MMO via ORDS with this [Python script](https://github.com/GaryHostt/sampeIoTData)
+  
+### Oracle Cloud Infrastructure (OCI)
+
+  - [Cloud Native Development](https://garyhostt.github.io/OCI_DevOps/)
+
+  - [Pilot Light - Disaster Recovery](https://apexapps.oracle.com/pls/apex/dbpm/r/livelabs/view-workshop?wid=724)
+
+  - [Oracle Data Integrator](https://garyhostt.github.io/Oracle_Data_Integrator/)
   
 ________________________________________________________________________________________________________________
 
@@ -75,7 +75,7 @@ ________________________________________________________________________________
 
 - Getting the daily [News in French with Twilio](https://github.com/GaryHostt/DailyNewsText)
 
-- creating & storing CSVs via [API calls and Flask](https://github.com/GaryHostt/OCI_Native_NewsApp)
+- Creating & storing CSVs via [API calls, bash, and Flask](https://github.com/GaryHostt/OCI_Native_NewsApp)
 
 - golang [cron job](https://github.com/GaryHostt/GoChronCall) to call the Flask API
 

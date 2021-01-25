@@ -43,7 +43,7 @@ I was the FY20 Solution Engineer of the year in the North America Cloud division
       
       - go to [apex.alexmacdonald.solutions](http://apex.alexmacdonald.solutions)
       
-      - <details> <summary>Credentials</summary> username: guest / password: TheDog8MyHomework77! </detials> (read access only)
+      - <details> <summary>Read- only credentials</summary> username: guest / password: TheDog8MyHomework77! </details>
       
       - Go to the dashboard page you can look busy by leaving it on your second monitor
       

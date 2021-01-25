@@ -10,6 +10,8 @@
 
 [LinkedIn](https://www.linkedin.com/in/robertamacdonald94/)
 
+____________________________________________________________________________________________________________
+
 <p align="left">
   <img src="http://logos-download.com/wp-content/uploads/2016/03/Oracle_logo_logotype_wordmark.png" witdh = 215 height = 70 alt="Oracle"/>
 </p>

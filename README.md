@@ -40,7 +40,7 @@ Oracle Cloud Infrastructure (OCI)
   
   - [ORDS Python script](https://github.com/GaryHostt/sampeIoTData)
   
-  - The Manufacturing Maintenance Office, an APEX application inspired by my time at DuPont
+  - **The Manufacturing Maintenance Office**, an APEX application inspired by my time at DuPont
       
       - go to [apex.alexmacdonald.solutions](http://apex.alexmacdonald.solutions)
       

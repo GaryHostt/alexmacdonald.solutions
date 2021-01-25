@@ -13,7 +13,7 @@
 ____________________________________________________________________________________________________________
 
 <p align="left">
-  <img src="http://logos-download.com/wp-content/uploads/2016/03/Oracle_logo_logotype_wordmark.png" witdh = 100 height = 44 alt="Oracle"/>
+  <img src="http://logos-download.com/wp-content/uploads/2016/03/Oracle_logo_logotype_wordmark.png" witdh = 140 height = 70 alt="Oracle"/>
 </p>
 
 [Oracle Integration](https://oic.alexmacdonald.solutions) (OIC)

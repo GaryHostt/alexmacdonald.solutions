@@ -23,9 +23,9 @@ ________________________________________________________________________________
 
 I was the FY20 Solution Engineer of the year in the North America Cloud division.
 
-### [Oracle Integration]
+### Oracle Integration
   
-  - [The sum of my 2.5 years of working with OIC](https://oic.alexmacdonald.solutions)
+  - [The sum of my knowledge after 2.5 years of working with OIC](https://oic.alexmacdonald.solutions)
 
   - [Integrating with Oracle ERP](https://medium.com/@alexmacdon94/laying-the-foundation-of-success-with-oracle-integration-erp-to-disparate-systems-dabad63abf7e)
 

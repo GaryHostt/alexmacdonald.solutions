@@ -1,5 +1,3 @@
-# alexmacdonald.solutions
-
 <p align="center">
   <img src="https://media-exp1.licdn.com/dms/image/C5616AQGj3PqrgDMexw/profile-displaybackgroundimage-shrink_350_1400/0/1608401918895?e=1617235200&v=beta&t=DpS7jFPY_JYQCE5J3ovxD9W1bl3qeHtmG4gqOc68Clg" alt="Mule"/>
 </p>
@@ -60,7 +58,7 @@ ________________________________________________________________________________
 
 [NewsAPI](http://newsapi.org)
 
-- [golang cron job](https://github.com/GaryHostt/GoChronCall)
+- golang [cron job](https://github.com/GaryHostt/GoChronCall)
 
 - [creating & storing CSVs](https://github.com/GaryHostt/OCI_Native_NewsApp)
 

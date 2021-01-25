@@ -87,4 +87,8 @@ ________________________________________________________________________________
   <img src="https://cdn.freebiesupply.com/logos/large/2x/marshall-university-logo-png-transparent.png" witdh = 200 height = 200 alt="Marshall"/>
 </p>
 
+- Bachelor of Business Administration in Management Information Systems
+- Minors: French & International Affairs
+- Magna Cum Laude
+
 I worked extensively with Microsoft Access at [DuPont](https://en.wikipedia.org/wiki/Dark_Waters_%282019_film%29) (then the Chemours Company) and [Sogefi](https://www.sogefigroup.com/en/index.html). I am also a co-author of [this paper](https://www.sciencedirect.com/science/article/abs/pii/S0166516216301033) in the International Journal of Coal Geology.

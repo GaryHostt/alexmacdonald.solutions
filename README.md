@@ -38,8 +38,6 @@ Oracle Cloud Infrastructure (OCI)
   
   - [HubsterDatabase](https://github.com/GaryHostt/HubsterDatabase) built with Flask
   
-  - [ORDS Python script](https://github.com/GaryHostt/sampeIoTData)
-  
   - **The Manufacturing Maintenance Office**, an APEX application inspired by my time at DuPont
       
       - go to [apex.alexmacdonald.solutions](http://apex.alexmacdonald.solutions)
@@ -47,6 +45,8 @@ Oracle Cloud Infrastructure (OCI)
       - username: guest / password: TheDog8MyHomework77!
       
       - you only have read access, but if you go to the dashboard page you can look busy by leaving it on your second monitor
+      
+      - The data is sent to MMO with this [ORDS Python script](https://github.com/GaryHostt/sampeIoTData)
   
 ________________________________________________________________________________________________________________
 

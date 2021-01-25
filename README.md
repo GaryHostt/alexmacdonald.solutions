@@ -71,13 +71,13 @@ ________________________________________________________________________________
   <img src="http://getwallpapers.com/wallpaper/full/9/4/d/358396.jpg" witdh = 60 height = 183 alt="code"/>
 </p>
 
-News API
+### News API
 
-- golang [cron job](https://github.com/GaryHostt/GoChronCall)
+- Getting the daily [News in French with Twilio](https://github.com/GaryHostt/DailyNewsText)
 
-- [creating & storing CSVs](https://github.com/GaryHostt/OCI_Native_NewsApp)
+- creating & storing CSVs via [API calls and Flask](https://github.com/GaryHostt/OCI_Native_NewsApp)
 
-- [Daily French text messaging with Twilio](https://github.com/GaryHostt/DailyNewsText)
+- golang [cron job](https://github.com/GaryHostt/GoChronCall) to call the Flask API
 
 ________________________________________________________________________________________________________________
 

@@ -13,7 +13,7 @@
 ____________________________________________________________________________________________________________
 
 <p align="left">
-  <img src="http://logos-download.com/wp-content/uploads/2016/03/Oracle_logo_logotype_wordmark.png" witdh = 1200 height = 500 alt="Oracle"/>
+  <img src="http://logos-download.com/wp-content/uploads/2016/03/Oracle_logo_logotype_wordmark.png" witdh = 300 height = 180 alt="Oracle"/>
 </p>
 
 [Oracle Integration](https://oic.alexmacdonald.solutions) (OIC)
@@ -41,7 +41,7 @@ Oracle Cloud Infrastructure (OCI)
 ________________________________________________________________________________________________________________
 
 <p align="left">
-  <img src="https://cdn-images-1.medium.com/max/1200/1*eSQnSxgOwNWtjsnbBl3w4A.png" witdh = 215 height = 70 alt="gcp"/>
+  <img src="https://cdn-images-1.medium.com/max/1200/1*eSQnSxgOwNWtjsnbBl3w4A.png" witdh = 1200 height = 500 alt="gcp"/>
 </p>
 
 - [BigQuery Integration](https://garyhostt.github.io/BigQueryIntegration/)

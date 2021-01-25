@@ -34,7 +34,7 @@ Oracle Cloud Infrastructure (OCI)
 
   - [Pilot Light - Disaster Recovery](https://apexapps.oracle.com/pls/apex/dbpm/r/livelabs/view-workshop?wid=724)
 
-  - [Oracle Data Integrator](https://garyhostt.github.io/Oracle_Data_Integrator/) (ODI)
+  - [Oracle Data Integrator](https://garyhostt.github.io/Oracle_Data_Integrator/)
   
 ________________________________________________________________________________________________________________
 

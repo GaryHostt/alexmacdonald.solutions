@@ -84,7 +84,7 @@ ________________________________________________________________________________
 ## University days
 
 <p align="left">
-  <img src="https://cdn.freebiesupply.com/logos/large/2x/marshall-university-logo-png-transparent.png" witdh = 200 height = 200 alt="Marshall"/>
+  <img src="https://cdn.freebiesupply.com/logos/large/2x/marshall-university-logo-png-transparent.png" witdh = 240 height = 240 alt="Marshall"/>
 </p>
 
 - Bachelor of Business Administration in Management Information Systems

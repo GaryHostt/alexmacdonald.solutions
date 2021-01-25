@@ -36,8 +36,34 @@ Oracle Cloud Infrastructure (OCI)
 
   - [Oracle Data Integrator](https://garyhostt.github.io/Oracle_Data_Integrator/)
   
+  - [HubsterDatabase](https://github.com/GaryHostt/HubsterDatabase)
+  
 ________________________________________________________________________________________________________________
 
-## Pre-Oracle
+<p align="left">
+  <img src="https://cdn-images-1.medium.com/max/1200/1*eSQnSxgOwNWtjsnbBl3w4A.png" witdh = 215 height = 70 alt="gcp"/>
+</p>
+
+- [BigQuery Integration](https://garyhostt.github.io/BigQueryIntegration/)
+
+- [Recursive Object Storage upload](https://github.com/GaryHostt/RecursiveObjectStorageUpload)
+
+________________________________________________________________________________________________________________
+
+<p align="left">
+  <img src="http://getwallpapers.com/wallpaper/full/9/4/d/358396.jpg" witdh = 70 height = 215 alt="code"/>
+</p>
+
+[NewsAPI](http://newsapi.org)
+
+- [golang cron job](https://github.com/GaryHostt/GoChronCall)
+
+- [creating & storing CSVs](https://github.com/GaryHostt/OCI_Native_NewsApp)
+
+- [Daily French text messaging with Twilio](https://github.com/GaryHostt/DailyNewsText)
+
+________________________________________________________________________________________________________________
+
+## University days
 
 I worked extensively with Microsoft Access at [DuPont](https://en.wikipedia.org/wiki/Dark_Waters_%282019_film%29) (then the Chemours Company) and [Sogefi](https://www.sogefigroup.com/en/index.html). I am also a co-author of [this paper](https://www.sciencedirect.com/science/article/abs/pii/S0166516216301033) in the International Journal of Coal Geology.

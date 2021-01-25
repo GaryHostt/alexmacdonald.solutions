@@ -23,17 +23,17 @@ ________________________________________________________________________________
 
 I was the FY20 Solution Engineer of the year in the North America Cloud division.
 
-#### [Oracle Integration](https://oic.alexmacdonald.solutions) (OIC)
+### [Oracle Integration](https://oic.alexmacdonald.solutions) (OIC)
 
+  - [Integrating with Oracle ERP](https://medium.com/@alexmacdon94/laying-the-foundation-of-success-with-oracle-integration-erp-to-disparate-systems-dabad63abf7e)
+
+  - [Connecting to Autonomous Transaction Processing](https://www.youtube.com/watch?v=-9nP2LaeOok), a cloud hub solution
+  
   - [Wuphf!](https://www.youtube.com/watch?v=GT6uWYqJq6E), omnichannel communication solution
   
   - [PaaS4SaaS](https://www.youtube.com/watch?v=zZk6SI7FADY), corporate salesplay
   
-  - [Connecting to Autonomous Transaction Processing](https://www.youtube.com/watch?v=-9nP2LaeOok), a cloud hub solution
-  
-  - [Integrating with Oracle ERP](https://medium.com/@alexmacdon94/laying-the-foundation-of-success-with-oracle-integration-erp-to-disparate-systems-dabad63abf7e)
-  
-#### Oracle Cloud Infrastructure (OCI)
+### Oracle Cloud Infrastructure (OCI)
 
   - [Cloud Native Development](https://garyhostt.github.io/OCI_DevOps/)
 
@@ -41,7 +41,7 @@ I was the FY20 Solution Engineer of the year in the North America Cloud division
 
   - [Oracle Data Integrator](https://garyhostt.github.io/Oracle_Data_Integrator/)
  
-#### Autonomous Database
+### Autonomous Database
   
   - [HubsterDatabase](https://github.com/GaryHostt/HubsterDatabase), built with Flask
   

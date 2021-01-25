@@ -8,10 +8,8 @@
 
 [LinkedIn](https://www.linkedin.com/in/robertamacdonald94/)
 
-## Oracle
-
 <p align="left">
-  <img src="http://logos-download.com/wp-content/uploads/2016/03/Oracle_logo_logotype_wordmark.png" witdh = 300 height = 100 alt="Oracle"/>
+  <img src="http://logos-download.com/wp-content/uploads/2016/03/Oracle_logo_logotype_wordmark.png" witdh = 250 height = 80 alt="Oracle"/>
 </p>
 
 [Oracle Integration](https://oic.alexmacdonald.solutions)

@@ -10,6 +10,10 @@
 
 ## Oracle
 
+<p align="left">
+  <img src="http://logos-download.com/wp-content/uploads/2016/03/Oracle_logo_logotype_wordmark.png" witdh = 300 height = 100 alt="Oracle"/>
+</p>
+
 [Oracle Integration](https://oic.alexmacdonald.solutions)
 
 [Cloud Native on OCI](https://garyhostt.github.io/OCI_DevOps/)

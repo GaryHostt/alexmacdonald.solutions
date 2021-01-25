@@ -23,7 +23,9 @@ ________________________________________________________________________________
 
 I was the FY20 Solution Engineer of the year in the North America Cloud division.
 
-### [Oracle Integration](https://oic.alexmacdonald.solutions) (OIC)
+### [Oracle Integration]
+  
+  - [The sum of my 2.5 years of working with OIC](https://oic.alexmacdonald.solutions)
 
   - [Integrating with Oracle ERP](https://medium.com/@alexmacdon94/laying-the-foundation-of-success-with-oracle-integration-erp-to-disparate-systems-dabad63abf7e)
 
@@ -31,11 +33,11 @@ I was the FY20 Solution Engineer of the year in the North America Cloud division
   
   - [Wuphf!](https://www.youtube.com/watch?v=GT6uWYqJq6E), omnichannel communication
   
-  - [PaaS4SaaS](https://www.youtube.com/watch?v=zZk6SI7FADY), corporate salesplay
+  - [PaaS for SaaS](https://www.youtube.com/watch?v=zZk6SI7FADY), corporate salesplay
   
 ### Autonomous Database
   
-  - [HubsterDatabase](https://github.com/GaryHostt/HubsterDatabase), built with Flask
+  - [Hubster Database](https://github.com/GaryHostt/HubsterDatabase), built with Flask
   
   - **The Manufacturing Maintenance Office**, an APEX application inspired by my time at DuPont
       

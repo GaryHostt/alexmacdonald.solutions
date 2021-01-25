@@ -31,13 +31,11 @@ I was the FY20 Solution Engineer of the year in the North America Cloud division
   
   - [Connecting to Autonomous Transaction Processing](https://www.youtube.com/watch?v=-9nP2LaeOok), a cloud hub solution
   
-  - [Santa Monica Integration](https://www.youtube.com/channel/UCW04sPyVsthkrjPs_Gx-dFA), Youtube channel
-  
-  - [Integrating with Fusion Applications](https://medium.com/@alexmacdon94/laying-the-foundation-of-success-with-oracle-integration-erp-to-disparate-systems-dabad63abf7e)
+  - [Integrating with Oracle ERP](https://medium.com/@alexmacdon94/laying-the-foundation-of-success-with-oracle-integration-erp-to-disparate-systems-dabad63abf7e)
   
 #### Oracle Cloud Infrastructure (OCI)
 
-  - [Cloud Native](https://garyhostt.github.io/OCI_DevOps/)
+  - [Cloud Native Development](https://garyhostt.github.io/OCI_DevOps/)
 
   - [Pilot Light - Disaster Recovery](https://apexapps.oracle.com/pls/apex/dbpm/r/livelabs/view-workshop?wid=724)
 
@@ -51,11 +49,11 @@ I was the FY20 Solution Engineer of the year in the North America Cloud division
       
       - go to [apex.alexmacdonald.solutions](http://apex.alexmacdonald.solutions)
       
-      - username: guest / password: TheDog8MyHomework77!
+      - username: guest / password: TheDog8MyHomework77! (read access only)
       
-      - you only have read access, but if you go to the dashboard page you can look busy by leaving it on your second monitor
+      - Go to the dashboard page you can look busy by leaving it on your second monitor
       
-      - The data is sent to MMO with this [ORDS Python script](https://github.com/GaryHostt/sampeIoTData)
+      - The data is sent to MMO via ORDS with this [Python script](https://github.com/GaryHostt/sampeIoTData)
   
 ________________________________________________________________________________________________________________
 

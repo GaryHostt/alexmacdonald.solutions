@@ -13,7 +13,7 @@
 
 [LinkedIn](https://www.linkedin.com/in/robertamacdonald94/)
 
-[Email](alexmacdonald.solutions@gmail.com)
+<alexmacdonald.solutions@gmail.com>
 
 ____________________________________________________________________________________________________________
 

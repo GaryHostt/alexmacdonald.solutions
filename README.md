@@ -29,7 +29,7 @@ I was the FY20 Solution Engineer of the year in the North America Cloud division
   
   - [Connecting to Autonomous Transaction Processing](https://www.youtube.com/watch?v=-9nP2LaeOok), a cloud hub solution
   
-  - [Santa Monica Integration](https://www.youtube.com/channel/UCW04sPyVsthkrjPs_Gx-dFA), Youtube Channel
+  - [Santa Monica Integration](https://www.youtube.com/channel/UCW04sPyVsthkrjPs_Gx-dFA), Youtube channel
   
   - [Integrating with Fusion Applications](https://medium.com/@alexmacdon94/laying-the-foundation-of-success-with-oracle-integration-erp-to-disparate-systems-dabad63abf7e)
   

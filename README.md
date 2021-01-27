@@ -39,9 +39,9 @@ I was the FY20 Solution Engineer of the year in the North America Cloud division
   
   - **The Manufacturing Maintenance Office**, an APEX application inspired by my time at DuPont
       
-      - login to [http://mmo.alexmacdonald.solutions/](http://mmo.alexmacdonald.solutions), click 'Dashboard' on the left menu, now you can look like you're science-ing
+      - [http://mmo.alexmacdonald.solutions/](http://mmo.alexmacdonald.solutions), click 'Dashboard' on the left menu, now you can look like you're science-ing
       
-      - <details> <summary>Read-only credentials</summary> username: guest / password: TheDog8MyHomework77! </details>
+      - <details> <summary>Login with these read-only credentials</summary> username: guest / password: TheDog8MyHomework77! </details>
       
       - The data is sent to MMO via ORDS with this [Python script](https://garyhostt.github.io/sampeIoTData/)
       

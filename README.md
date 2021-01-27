@@ -58,7 +58,7 @@ I was the FY20 Solution Engineer of the year in the North America Cloud division
 ________________________________________________________________________________________________________________
 
 <p align="left">
-  <img src="https://cdn-images-1.medium.com/max/1200/1*eSQnSxgOwNWtjsnbBl3w4A.png" witdh = 240 height = 90 alt="gcp"/>
+  <img src="https://i0.wp.com/www.pointstar.com.my/wp-content/uploads/2015/11/Header_Logo_GCP_transparent.png?ssl=1" witdh = 240 height = 90 alt="gcp"/>
 </p>
 
 - [BigQuery Integration](https://garyhostt.github.io/BigQueryIntegration/)

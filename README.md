@@ -29,7 +29,7 @@ I was the FY20 Solution Engineer of the year in the North America Cloud division
 
   - [Integrating with Oracle ERP](https://medium.com/@alexmacdon94/laying-the-foundation-of-success-with-oracle-integration-erp-to-disparate-systems-dabad63abf7e)
 
-  - [Connecting to Autonomous Transaction Processing](https://www.youtube.com/watch?v=-9nP2LaeOok), a cloud hub solution + the accompanying [workshops](https://garyhostt.github.io/ATPworkshop/) (one of many)
+  - [Connecting to Autonomous Transaction Processing](https://www.youtube.com/watch?v=-9nP2LaeOok), a cloud hub solution + the accompanying [workshop](https://garyhostt.github.io/ATPworkshop/) (one of many)
   
   - [Wuphf!](https://www.youtube.com/watch?v=GT6uWYqJq6E), omnichannel communication
   

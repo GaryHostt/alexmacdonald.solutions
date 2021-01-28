@@ -68,7 +68,7 @@ ________________________________________________________________________________
 ________________________________________________________________________________________________________________
 
 <p align="left">
-  <img src="https://cdn-images-1.medium.com/max/1600/1*wU6oJH7v7wkGRrhwA9XRVA.jpeg" witdh = 200 height = 70 alt="code"/>
+  <img src="https://cdn-images-1.medium.com/max/1600/1*wU6oJH7v7wkGRrhwA9XRVA.jpeg" witdh = 600 height = 210 alt="code"/>
 </p>
 
 ### News API

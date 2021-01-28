@@ -21,7 +21,7 @@ ________________________________________________________________________________
   <img src="http://logos-download.com/wp-content/uploads/2016/03/Oracle_logo_logotype_wordmark.png" witdh = 140 height = 70 alt="Oracle"/>
 </p>
 
-I was the FY20 Solution Engineer of the year in the North America Cloud division.
+I was the FY20 Solution Engineer of the Year in the North America Cloud division.
 
 ### Oracle Integration
   

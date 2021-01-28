@@ -28,8 +28,6 @@ I was the FY20 Solution Engineer of the year in the North America Cloud division
   - [The sum of my knowledge](https://oic.alexmacdonald.solutions), after 2.5 years of working with OIC
 
   - [Integrating with Oracle ERP](https://medium.com/@alexmacdon94/laying-the-foundation-of-success-with-oracle-integration-erp-to-disparate-systems-dabad63abf7e)
-
-  - [Connecting to Autonomous Transaction Processing](https://www.youtube.com/watch?v=-9nP2LaeOok), a cloud hub solution + the accompanying [workshop](https://garyhostt.github.io/ATPworkshop/) (one of many)
   
   - [Wuphf!](https://www.youtube.com/watch?v=GT6uWYqJq6E), omnichannel communication
   
@@ -44,6 +42,8 @@ I was the FY20 Solution Engineer of the year in the North America Cloud division
       - <details> <summary>Login with these read-only credentials</summary> username: guest / password: TheDog8MyHomework77! </details>
       
       - The data is sent to MMO via ORDS with this [Python script](https://garyhostt.github.io/sampeIoTData/)
+  
+  - [Connecting to Autonomous Transaction Processing](https://www.youtube.com/watch?v=-9nP2LaeOok), a cloud hub solution + the accompanying [workshop](https://garyhostt.github.io/ATPworkshop/)
       
   - [Hubster Database](https://github.com/GaryHostt/HubsterDatabase), built with Flask
   

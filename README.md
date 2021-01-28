@@ -39,7 +39,7 @@ I was the FY20 Solution Engineer of the Year in the North America Cloud division
       
       - [http://mmo.alexmacdonald.solutions/](http://mmo.alexmacdonald.solutions), click 'Dashboard' on the left menu to look busy
       
-           <details> <summary>Login with these read-only credentials</summary> username: guest / password: TheDog8MyHomework77! </details>
+           <details> <summary>Click here to login with these read-only credentials</summary> username: guest / password: TheDog8MyHomework77! </details>
       
       - The data is sent to MMO via ORDS with this [Python script](https://garyhostt.github.io/sampeIoTData/)
   

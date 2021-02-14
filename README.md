@@ -13,6 +13,18 @@
 ____________________________________________________________________________________________________________
 
 <p align="left">
+  <img src="
+https://raw.githubusercontent.com/GaryHostt/alexmacdonald.solutions/main/new_mulesoft_logo_r.png" witdh = 154 height = 77 alt="MuleSoft"/>
+</p>
+
+In February 2021 I started as a Senior Solution Engineer.
+
+- beginning of the new [knowledge repository](https://mulesoft.alexmacdonald.solutions).
+
+____________________________________________________________________________________________________________
+
+
+<p align="left">
   <img src="http://logos-download.com/wp-content/uploads/2016/03/Oracle_logo_logotype_wordmark.png" witdh = 140 height = 70 alt="Oracle"/>
 </p>
 

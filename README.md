@@ -14,7 +14,7 @@ ________________________________________________________________________________
 
 <p align="left">
   <img src="
-https://raw.githubusercontent.com/GaryHostt/alexmacdonald.solutions/main/new_mulesoft_logo_r.png" witdh = 154 height = 77 alt="MuleSoft"/>
+https://raw.githubusercontent.com/GaryHostt/alexmacdonald.solutions/main/new_mulesoft_logo_r.png?raw=true" witdh = 154 height = 77 alt="MuleSoft"/>
 </p>
 
 In February 2021 I started as a Senior Solution Engineer.

@@ -1,4 +1,6 @@
-![](use2.png)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/GaryHostt/alexmacdonald.solutions/main/use2.png?raw=true" width = 360 height = 510 alt="Mule"/>
+</p>
 
 ## Where to find me
 

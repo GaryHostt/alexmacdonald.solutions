@@ -1,11 +1,4 @@
-<p align="center">
-  <img src="http://www.ignitionglobal.com/wp-content/uploads/2017/12/SALES-ENGINEER.jpg?raw=True" witdh = 0 height = 0 alt="preview"/>
-</p>
-
-
-<p align="center">
-  <img src="https://media-exp1.licdn.com/dms/image/C5616AQGj3PqrgDMexw/profile-displaybackgroundimage-shrink_350_1400/0/1608401918895?e=1617235200&v=beta&t=DpS7jFPY_JYQCE5J3ovxD9W1bl3qeHtmG4gqOc68Clg" alt="thanos"/>
-</p>
+![](use2.png)
 
 ## Where to find me
 

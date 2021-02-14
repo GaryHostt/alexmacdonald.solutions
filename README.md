@@ -19,7 +19,7 @@ https://raw.githubusercontent.com/GaryHostt/alexmacdonald.solutions/main/new_mul
 
 In February 2021 I started as a Senior Solution Engineer.
 
-- beginning of the new [knowledge repository](https://mulesoft.alexmacdonald.solutions).
+- beginning of the new [knowledge repository](https://mulesoft.alexmacdonald.solutions)
 
 ____________________________________________________________________________________________________________
 

@@ -1,5 +1,5 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/GaryHostt/alexmacdonald.solutions/main/use2.png?raw=true" width = 360 height = 510 alt="Mule"/>
+<p align="left">
+  <img src="https://raw.githubusercontent.com/GaryHostt/alexmacdonald.solutions/main/use2.png?raw=true" width = 420 height = 520 alt="Mule"/>
 </p>
 
 ## Where to find me

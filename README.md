@@ -17,7 +17,7 @@ ________________________________________________________________________________
 https://raw.githubusercontent.com/GaryHostt/alexmacdonald.solutions/main/new_mulesoft_logo_r.png?raw=true" witdh = 205 height = 120 alt="MuleSoft"/>
 </p>
 
-In February 2021 I started as a Senior Solution Engineer. In March I earned the [MuleSoft Certified Developer](https://objectstorage.us-ashburn-1.oraclecloud.com/n/robertmacdonald/b/PublicFacing/o/MCD.pdf) certification. 
+In February 2021 I started as a Senior Solution Engineer. In March I earned the [MuleSoft Certified Developer](https://objectstorage.us-ashburn-1.oraclecloud.com/n/robertmacdonald/b/PublicFacing/o/MCD.pdf) certification. By July, I was a [MuleSoft Certified Platform Architect](https://objectstorage.us-ashburn-1.oraclecloud.com/n/robertmacdonald/b/PublicFacing/o/mcpa.pdf).
 
 - beginning of the new [knowledge repository](https://mulesoft.alexmacdonald.solutions)
 

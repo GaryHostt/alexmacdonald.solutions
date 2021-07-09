@@ -21,6 +21,8 @@ In February 2021 I started as a Senior Solution Engineer. In March I earned the 
 
 - beginning of the new [knowledge repository](https://mulesoft.alexmacdonald.solutions)
 
+- my Exchange [public portal](https://anypoint.mulesoft.com/exchange/portals/mulesoft-6262/)
+
 ____________________________________________________________________________________________________________
 
 

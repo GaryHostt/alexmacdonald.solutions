@@ -6,7 +6,7 @@
 
 [Github](https://github.com/GaryHostt)
 
-[LinkedIn](https://www.linkedin.com/in/robertamacdonald94/)
+[LinkedIn](https://www.linkedin.com/in/ralexmacdonaldsolutions/)
 
 <alexmacdonald.solutions@gmail.com>
 
